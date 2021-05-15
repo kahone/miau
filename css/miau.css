@@ -39,6 +39,7 @@ div.main{
 h1{
 	font-family: 'Sniglet', cursive; font-size: 2em; color: #e47d7e; text-transform: uppercase;
 	text-shadow: 2px 2px 2px #fff; filter: dropshadow(color=#fff, offx=2, offy=2);
+	padding-left: 2px; padding-right :2px;
 }
 
 /* profiilit */
